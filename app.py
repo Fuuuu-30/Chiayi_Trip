@@ -85,21 +85,21 @@ SPOTS_INFO = {
         "文化路夜市附近的 40 年老店！除了白醋涼麵外，特製淋上白醋醬汁的「涼肉圓」也是必吃招牌！\n\n"
         "⏰ 營業時間：09:00 - 18:00 (週一公休)\n"
         "📍 必點：涼麵、涼肉圓、皮蛋豆腐\n"
-        "🗺️ 地圖：https://www.google.com/maps/search/?api=1&query=黃記涼麵涼肉圓"
+        "🗺️ 地圖：https://www.google.com/maps/search/?api=1&query=黃記涼麵涼圓（內用供餐至17：30）"
     ),
     "老牌涼麵": (
         "🥗【公園老牌涼麵】\n"
         "在地深耕數十年的傳統老店！麻醬香氣濃郁搭配白醋順口不油膩，份量十足且價格實惠。\n\n"
         "⏰ 營業時間：09:00 - 17:00 (週日公休)\n"
         "📍 特色：麻醬濃郁、滑順開胃\n"
-        "🗺️ 地圖：https://www.google.com/maps/search/?api=1&query=公園老牌涼麵"
+        "🗺️ 地圖：https://www.google.com/maps/search/?api=1&query=老牌涼麵(北門店)"
     ),
     "崇文涼麵": (
         "🥗【崇文錦魯麵（崇文涼麵）】\n"
         "傳承超過 60 年的在地老字號！除了白醋涼麵，他們的羹麵（錦魯麵）與魚皮湯也是人氣必點。\n\n"
         "⏰ 營業時間：10:30 - 18:30 (週六公休)\n"
         "📍 必點：白醋涼麵、錦魯麵、麻辣涼麵\n"
-        "🗺️ 地圖：https://www.google.com/maps/search/?api=1&query=崇文錦魯麵"
+        "🗺️ 地圖：https://www.google.com/maps/search/?api=1&query=崇文嘉義涼麵－嘉義中正店"
     ),
     "文化路夜市": (
         "🍜【文化路夜市】\n"
